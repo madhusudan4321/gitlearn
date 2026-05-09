@@ -1,6 +1,10 @@
 ---
 name: "Bug report"
+<<<<<<< HEAD
 about: Create a bug report for blast.
+=======
+about: Create a bug report for mailcli.
+>>>>>>> 47128913e3a214b3a3cb26b4ab0e34ebbb515b19
 title: ""
 labels: bug
 assignees: "trinhminhtriet"
@@ -19,7 +23,11 @@ assignees: "trinhminhtriet"
 #### OS / ENVIRONMENT:
 
 1. [ ] Operating system:
+<<<<<<< HEAD
 2. [ ] blast version:
+=======
+2. [ ] mailcli version:
+>>>>>>> 47128913e3a214b3a3cb26b4ab0e34ebbb515b19
 
 #### STEPS TO REPRODUCE:
 
