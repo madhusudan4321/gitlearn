@@ -1,4 +1,8 @@
 name: GoReleaser
+<<<<<<< HEAD
+
+=======
+>>>>>>> 47128913e3a214b3a3cb26b4ab0e34ebbb515b19
 on:
   push:
     tags:
